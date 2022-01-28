@@ -1,0 +1,11 @@
+#teacher-video {
+    width: 80%;
+    height: 500px;
+    object-fit: cover;
+}
+
+#student-video {
+    width: 275px;
+    height: 200px;
+    object-fit: cover;
+}
